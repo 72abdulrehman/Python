@@ -53,7 +53,7 @@ while True:
         break
         
     else:
-        print("Command not valid")
+        print("Command not valid. Try again")
     
 print("Bye")
         
