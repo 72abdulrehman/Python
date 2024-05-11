@@ -52,7 +52,6 @@ while True:
     elif user_action.startswith("exit"):
         break
         
-    
     else:
         print("Command not valid")
     
