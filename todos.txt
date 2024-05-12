@@ -1,2 +1,4 @@
-Buy Grocery
-Carwash
+New Todo
+Car Wash
+Grocery Shopping
+Laundry

@@ -20,7 +20,7 @@ while True:
         
         for index, item in enumerate(todos):
             item = item.strip("\n")
-            row = f"{index+1}-{item.title()}"
+            row = f"{index+1}-{item}"
             print(row)
             
     elif user_action.startswith("edit"):
